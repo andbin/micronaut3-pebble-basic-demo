@@ -1,0 +1,13 @@
+micronaut:
+  application:
+    name: micronaut3PebbleBasicDemo
+  router:
+    static-resources:
+      css:
+        enabled: true
+        mapping: /css/**
+        paths: classpath:static/css
+netty:
+  default:
+    allocator:
+      max-order: 3
