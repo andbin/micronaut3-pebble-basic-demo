@@ -1,5 +1,5 @@
 <a name="">![Java 11](https://img.shields.io/badge/Java-11-cd853f "Java 11")</a>
-<a name="">![Micronaut 3.8.2](https://img.shields.io/badge/Micronaut-3.8.2-6db33f "Micronaut 3.8.2")</a>
+<a name="">![Micronaut 3.8.5](https://img.shields.io/badge/Micronaut-3.8.5-6db33f "Micronaut 3.8.5")</a>
 <a name="">![Built with Apache Maven](https://img.shields.io/badge/Built%20with-Apache%20Maven-f76504 "Built with Apache Maven")</a>
 <a name="">![MIT License](https://img.shields.io/badge/License-MIT-1081c1 "MIT License")</a>
 
